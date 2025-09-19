@@ -1,2 +1,3 @@
- to compile - $javac rps/*.java
+put all files in a directory named /rps
+to compile - $javac rps/*.java (The class files are already created so no need to compile separately unless you make changes)
 to run - $java rps.Main
